@@ -1,0 +1,109 @@
+#video-player {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color:#3782E4;
+}
+
+#logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+#logo img {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+#video {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+#video-player {
+  border: 1px solid black;
+  position: relative;
+  
+}
+/* For screens smaller than 600px */
+@media (max-width: 600px) {
+  #video-player {
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  }
+}
+
+/* For screens between 600px and 900px */
+@media (min-width: 600px) and (max-width: 900px) {
+  #video-player {
+    width: 80%;
+    padding-bottom: 45%; /* 16:9 aspect ratio */
+  }
+}
+
+/* For screens larger than 900px */
+@media (min-width: 900px) {
+  #video-player {
+    width: 640px;
+    height: 360px;
+  }
+}
+
+
+
+#video-player video::-webkit-media-controls {
+  display: none !important;
+}
+
+#custom-controls {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #3A80FF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#play-pause-btn {
+  font-size: 24px;
+  color: white;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+#progress-bar {
+  height: 6px;
+  width: 60%;
+  background-color: #ddd;
+  border-radius: 3px;
+  position: relative;
+}
+
+#progress {
+  height: 100%;
+  width: 0;
+  background-color: red;
+  border-radius: 3px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+#fullscreen-btn {
+  font-size: 24px;
+  color: white;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+

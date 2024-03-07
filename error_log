@@ -1,0 +1,236 @@
+[29-Jan-2024 18:29:05 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:335
+Stack trace:
+#0 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(642): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(623): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(493): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(138): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/cherapal/tv.cherapal.com/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#9 {main}
+  thrown in /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 335
+[29-Jan-2024 18:29:08 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:335
+Stack trace:
+#0 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(642): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(623): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(493): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(138): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/cherapal/tv.cherapal.com/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#9 {main}
+  thrown in /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 335
+[29-Jan-2024 18:29:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:335
+Stack trace:
+#0 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(642): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(623): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(493): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(138): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/cherapal/tv.cherapal.com/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#9 {main}
+  thrown in /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 335
+[29-Jan-2024 18:29:43 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:335
+Stack trace:
+#0 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(642): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(623): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(493): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(138): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/cherapal/tv.cherapal.com/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#9 {main}
+  thrown in /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 335
+[29-Jan-2024 18:29:44 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:335
+Stack trace:
+#0 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic()
+#1 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(642): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(623): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(554): Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+#4 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(460): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#5 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(377): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#6 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(493): Illuminate\Foundation\Exceptions\Handler->render()
+#7 /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(138): Illuminate\Foundation\Http\Kernel->renderException()
+#8 /home/cherapal/tv.cherapal.com/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#9 {main}
+  thrown in /home/cherapal/tv.cherapal.com/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 335
+[29-Jan-2024 18:30:04 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:04 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:06 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:06 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:21 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:21 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:22 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:22 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:23 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:23 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:23 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:23 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:30:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:30 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:30 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:41 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:41 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:42 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:42 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:43 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:43 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:43 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:43 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:43 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:43 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:31:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:32:50 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:32:50 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:32:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:32:52 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:32:52 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:32:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:32:53 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:32:53 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:32:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:13 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:13 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:15 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:15 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:16 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:16 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:17 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:17 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:17 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:17 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:18 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:18 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:54 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:54 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:33:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:06 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:06 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:09 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:09 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:16 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:16 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:16 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:16 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:17 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:17 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:49 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:49 UTC] PHP Warning:  require(/home/cherapal/tv.cherapal.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/cherapal/tv.cherapal.com/index.php on line 34
+[29-Jan-2024 18:34:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cherapal/tv.cherapal.com/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cherapal/tv.cherapal.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cherapal/tv.cherapal.com/index.php on line 34
+[18-Feb-2024 13:07:24 Asia/Dhaka] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/cherapal/tv.cherapal.com/app/Http/Controllers/WatchtimeController.php on line 4
+[18-Feb-2024 13:45:03 Asia/Dhaka] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/cherapal/tv.cherapal.com/app/Http/Controllers/WatchtimeController.php on line 4
+[18-Feb-2024 13:47:12 Asia/Dhaka] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/cherapal/tv.cherapal.com/app/Http/Controllers/WatchtimeController.php on line 4
